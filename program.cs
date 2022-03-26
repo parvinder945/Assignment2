@@ -17,6 +17,7 @@ namespace Assignment_2
             int pos = SearchInsert(nums1, target);
             Console.WriteLine("Insert Position of the target is : {0}", pos);
             Console.WriteLine("");
+            //test
 
             //Question2:
             Console.WriteLine("Question 2");
